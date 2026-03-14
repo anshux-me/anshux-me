@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1>Hi, I'm Anshu 👋</h1>
 
-<!--
-**anshux-me/anshux-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Data science ,ML Engineer & Full stack Developer</h3>
+<p>
+I am a Data Science and Full-Stack Engineering student with strong interest in Machine Learning, Computer Vision, and Artificial Intelligence. I enjoy building practical projects that combine AI, web development, and real-world problem solving, such as language-learning systems, computer vision applications, and interactive web platforms.
+I am skilled in Python, JavaScript, React, FastAPI, and Firebase, and I like designing complete systems from frontend to backend.</p>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://anshuportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/anshuxme/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+</a>
+
+
+
+<a href="mailto:anshukr384@email.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge">
+</a>
+</p>
+
+<hr>
+
+<h2>Tech Stack</h2>
+
+<h3>Languages</h3>
+
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
+
+<h3>Frameworks</h3>
+
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge">
+
+<h3>Tools</h3>
+
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge">
+
+<hr>
+
+<h2>Featured Projects</h2>
+
+<ul>
+<li>AI Pronunciation Trainer</li>
+<li>CNN Project</li>
+<li>Open CV Project</li>
+<li>Portfolio Website</li>
+</ul>
+
+

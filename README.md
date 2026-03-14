@@ -3,8 +3,9 @@
 
 <h3>Data science ,ML Engineer & Full stack Developer</h3>
 <p>
-I am a Data Science and Full-Stack Engineering student with strong interest in Machine Learning, Computer Vision, and Artificial Intelligence. I enjoy building practical projects that combine AI, web development, and real-world problem solving, such as language-learning systems, computer vision applications, and interactive web platforms.
-I am skilled in Python, JavaScript, React, FastAPI, and Firebase, and I like designing complete systems from frontend to backend.</p>
+Learning and Implementing new tech each day, Exploring Data science, ML and Full stack Domain.
+</p>
+<h3>Currently exploring: CNN, Open CV</h3>
 
 <p>
   <a href="https://anshuportfolio.vercel.app/">
@@ -48,14 +49,5 @@ I am skilled in Python, JavaScript, React, FastAPI, and Firebase, and I like des
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge">
 </p>
 <hr>
-
-<h2>Featured Projects</h2>
-
-<ul>
-<li>AI Pronunciation Trainer</li>
-<li>CNN Project</li>
-<li>Open CV Project</li>
-<li>Portfolio Website</li>
-</ul>
 
 

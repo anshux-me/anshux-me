@@ -5,7 +5,8 @@
 <p>
 Learning and Implementing new tech each day, Exploring Data science, ML and Full stack Domain.
 </p>
-<h3>Currently exploring: CNN, Open CV</h3>
+<h4>* Currently working on: CNN, Open CV</h4>
+<h4>* Learning: DataBase, Big Data</h4>
 
 <p>
   <a href="https://anshuportfolio.vercel.app/">
@@ -28,6 +29,7 @@ Learning and Implementing new tech each day, Exploring Data science, ML and Full
 
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge">
+  <!-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) -->
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">

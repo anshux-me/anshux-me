@@ -5,8 +5,8 @@
 <p>
 Learning and Implementing new tech each day, Exploring Data science, ML and Full stack Domain.
 </p>
-<h4>* Currently working on: CNN, Open CV</h4>
-<h4>* Learning: DataBase, Big Data</h4>
+<h4>• Currently working on: CNN, Open CV</h4>
+<h4>• Learning: DataBase, Big Data</h4>
 
 <p>
   <a href="https://anshuportfolio.vercel.app/">
@@ -51,5 +51,21 @@ Learning and Implementing new tech each day, Exploring Data science, ML and Full
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge">
 </p>
 <hr>
+<h2>📊 GitHub Stats</h2>
 
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=anshux-me&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshux-me&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</td>
+</tr>
+</table>
+
+<!-- <p> -->
+<!-- <img src="https://streak-stats.demolab.com?user=anshux-me&theme=tokyonight&hide_border=true&border_radius=10"/> -->
+<!-- </p> -->
 

@@ -55,7 +55,7 @@ Learning and Implementing new tech each day, Exploring Data science, ML and Full
 
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshux-me&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshux-me&theme=tokyo-night" />
 </td>
 </tr>
 </table>
